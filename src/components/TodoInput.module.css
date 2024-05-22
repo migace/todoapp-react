@@ -1,0 +1,15 @@
+.wrapper {
+  margin-bottom: 40px;
+  display: flex;
+}
+
+.wrapper input {
+  flex: 1;
+  height: 40px;
+  padding: 0 24px;
+  font-size: 20px;
+}
+
+.wrapper button {
+  padding: 0 20px;
+}
